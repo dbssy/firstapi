@@ -11,6 +11,7 @@ O intuito dessa aplicação é criarmos uma API usando apenas o **Node.JS** de f
 ## 👨‍💻 Tecnologias
 Essas foram as tecnologias utilizadas neste projeto!
 
+- [JavaScript](https://www.javascript.com/)
 - [Node.JS](https://nodejs.org/en/)
 
 
