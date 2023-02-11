@@ -4,7 +4,7 @@ const { URL } = require('url');
 const routes = require('./routes');
 
 const server = http.createServer((request, response) => {
-  const parsedUrl = new URL(`http://localhost:3000/${request.url}`);
+  const parsedUrl = new URL(`http://localhost:3000${request.url}`);
 
   console.log(`Request method: ${request.method} | Endpoint: ${parsedUrl.pathname}`);
 
