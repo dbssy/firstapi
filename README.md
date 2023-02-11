@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/firstAPI.svg" width="35%" alt="dt-money">
+  <img src="./.github/firstAPI.svg" width="35%">
 </p>
 
 ## 💻 Sobre o projeto
