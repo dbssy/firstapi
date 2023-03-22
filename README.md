@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/firstAPI.svg" width="35%">
+  <img src="./.github/firstAPI.svg" width="15%">
 </p>
 
 ## 💻 Sobre o projeto
@@ -14,7 +14,6 @@ Essas foram as tecnologias utilizadas neste projeto!
 - [JavaScript](https://www.javascript.com/)
 - [Node.JS](https://nodejs.org/en/)
 
-
 <br>
 
 ## 🚀 Execução
@@ -24,13 +23,15 @@ Faça um clone desse repositório e acesse o diretório.
 ```bash
 # Clone o Repositório
 $ git clone https://github.com/dbssy/firstapi.git
+$ cd firstapi
 ```
 
+<br>
+
+Para rodar o projeto, você só precisa executar o comando abaixo!
 ```bash
-# Execute o projeto
 $ node src/index.js
 ```
-<br>
 
 ## 📝 Licença
 
